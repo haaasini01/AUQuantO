@@ -2,8 +2,13 @@
 
 ### Two-Stage CNN + MC Dropout + AUQantO + Explainable AI
 
----
+## Project Presentation Videos
 
+Phase 1 (Mid Evaluation): [phase-1-video ](https://drive.google.com/file/d/1jgqHtZ9AEP6PGaVJHEq0rjwx3Waa9lgw/view)
+
+Phase 2 (Final Evaluation): [phase-2-video ](https://drive.google.com/file/d/1uynUfQW45blza4G_3O9S30IeliyfOzky/view)
+
+---
 ## Overview
 
 This project implements an **uncertainty-aware deep learning framework** for **skin cancer classification (Benign vs Malignant)**.
